@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Suzry</title>
+  <desc id="desc">Forward Deployed Engineer (FDE). Midnight blue and warm sunset tones inspired by Suzry's avatar.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#02060e"/>
+      <stop offset=".48" stop-color="#06182d"/>
+      <stop offset=".68" stop-color="#293a3c"/>
+      <stop offset=".83" stop-color="#b16b26"/>
+      <stop offset=".9" stop-color="#f39a22"/>
+      <stop offset="1" stop-color="#1c1008"/>
+    </linearGradient>
+    <linearGradient id="shade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#02060e" stop-opacity=".92"/>
+      <stop offset=".48" stop-color="#02060e" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#02060e" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="bounds"><rect width="1200" height="280" rx="18"/></clipPath>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
+  <path d="M0 265C280 265 550 263 760 257S1050 236 1200 227V280H0Z" fill="#070705" clip-path="url(#bounds)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#shade)"/>
+  <rect x="56" y="49" width="36" height="4" rx="2" fill="#f7aa46"/>
+  <text x="56" y="126" fill="#fff4e5" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Suzry<tspan fill="#f7aa46">.</tspan></text>
+  <text x="59" y="177" fill="#ded7cc" font-family="Arial, Helvetica, sans-serif" font-size="26">Forward Deployed Engineer (FDE)</text>
+  <text x="59" y="227" fill="#e8b66f" font-family="monospace" font-size="15" letter-spacing="2">BUILD · REFINE · REPEAT</text>
+</svg>
