@@ -8,4 +8,4 @@ I'm a **Forward Deployed Engineer (FDE)**, focused on turning real-world problem
 
 
 
-[LinkedIn](https://www.linkedin.com/in/mohammed-al-subhi-160aa92a5/) &nbsp; · &nbsp; [PersonalSpace](https://mohammed-personalspace.vercel.app/)   ·  &nbsp; [Instagram](https://www.instagram.com/ve1k/) &nbsp; · &nbsp; [mohmmadfahad1919@gmail.com](mailto:mohmmadfahad1919@gmail.com) &nbsp; · &nbsp; [+996580420563](tel:+966580420563)  
+[LinkedIn](https://www.linkedin.com/in/mohammed-al-subhi-160aa92a5/) &nbsp; · &nbsp; [PersonalSpace](https://mohammed-personalspace.vercel.app/)   ·  &nbsp; [x](https://x.com/Suzzryyy) &nbsp; · &nbsp; [mohmmadfahad1919@gmail.com](mailto:mohmmadfahad1919@gmail.com) &nbsp; · &nbsp; [+996580420563](tel:+966580420563)  
